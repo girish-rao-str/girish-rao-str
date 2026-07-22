@@ -1,36 +1,24 @@
-````markdown
 <div align="center">
-  
-<!-- Dynamic Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:00FF41&height=120&section=header&text=Girish%20Rao&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Security%20%7C%20Architecture%20%7C%20Governance&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Lead+Security+Architect+%40+Lennox+International;Founder+%40+HackersBUN;AI+Security+%26+Governance+Advisor;Securing+the+Enterprise+%26+the+LLM" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=Booting+HackersBUN+OS...;Loading+AI+Security+Kernel...;Initializing+Threat+Intel+Engine...;whoami+%3E+Girish+Rao;Role+%3E+Lead+Security+Architect+(SOC);Focus+%3E+AI+Architecture+%2B+AI+Security;Access+Granted.+Welcome%2C+Operator.)](https://git.io/typing-svg)
 
-<!-- CTA Buttons -->
-<p>
-  <a href="https://girish-resume2026.netlify.app/"><img src="https://img.shields.io/badge/%F0%9F%93%84_Executive_Resume-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Resume"/></a>
-  <a href="https://www.linkedin.com/in/girishraohb/"><img src="https://img.shields.io/badge/%F0%9F%92%BC_Personal-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.linkedin.com/company/hackersbun/"><img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_HackersBUN-Company-00FF41?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackersBUN"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=girish-rao-str&style=for-the-badge&color=00FF41&label=Total+Intrusions+Detected" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:00FF41&height=120&section=header&text=&fontColor=00FF41" width="100%" />
 
 </div>
 
----
+<p align="center">
+<img src="https://profile-counter.glitch.me/girish-rao-str/count.svg" alt="Total Intrusions Detected" />
+</p>
 
-### 🖥️ System Terminal: `whoami`
+<p align="center">
+<a href="https://girish-resume2026.netlify.app/"><img src="https://img.shields.io/badge/Resume-00FF41?style=for-the-badge&logo=readdotcv&logoColor=0D1117&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/girishraohb/"><img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/company/hackersbun/"><img src="https://img.shields.io/badge/HackersBUN-00FF41?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
+<a href="mailto:hb91.girish@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
+</p>
 
-<div align="center">
-  <table width="100%" style="border: 1px solid #00FF41; border-radius: 8px; background-color: #0d1117;">
-    <tr>
-      <td style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d;">
-        <img src="https://img.shields.io/badge/TERMINAL-girish@hackersbun:~%24-0d1117?style=flat-square&logo=windowsterminal&logoColor=00FF41&labelColor=161b22&color=161b22" alt="Terminal Bar"/>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 15px; color: #c9d1d9; font-family: 'JetBrains Mono', monospace;">
+<table align="center">
+<tr><td>
 
 ```bash
 girish@hackersbun:~$ whoami
@@ -72,112 +60,95 @@ girish@hackersbun:~$ echo $STATUS
 > Currently monitoring the wire. Stay quiet. Stay sharp.
 ```
 
-      </td>
-    </tr>
-  </table>
-</div>
+</td></tr>
+</table>
 
----
+<h3 align="center">🧠 AI Security & Architecture Focus</h3>
 
-### 🧠 Core Competencies: AI Security & Governance
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🛡️ AI Security & Safety</h3>
-        <ul>
-          <li><b>AI Architecture Review:</b> Securing LLM integrations, RAG pipelines, and agentic workflows from prompt injection, data poisoning, and model evasion.</li>
-          <li><b>Threat Modeling:</b> Applying STRIDE/DREAD methodologies tailored for AI systems using Azure AI Foundry and cloud-native AI services.</li>
-          <li><b>AI Red Teaming:</b> Adversarial testing against generative AI deployments to identify data leakage and OWASP LLM Top-10 vulnerabilities.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚖️ Governance & Compliance</h3>
-        <ul>
-          <li><b>Framework Implementation:</b> Aligning AI initiatives with <code>NIST AI RMF</code>, <code>ISO/IEC 42001</code>, and the <code>EU AI Act</code>.</li>
-          <li><b>Policy Development:</b> Authoring acceptable use policies, model risk assessment frameworks, and AI governance boards.</li>
-          <li><b>Audit & Assurance:</b> Ensuring traceability, model explainability, and continuous compliance monitoring across the AI lifecycle.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+**🛡️ AI Threat Modeling**
+STRIDE-based Copilot on
+Azure AI Foundry + Copilot Studio
 
----
+</td>
+<td align="center" width="33%">
 
-### 🚀 Innovation & R&D Pipeline
+**⚡ AI-Driven SOC**
+RAG pipelines cutting
+triage time by 70%+
 
-<div align="center">
-  
-**1. RAG-based Alert Triage Pipeline**
-*Objective: Reduce SOC Mean Time to Respond (MTTR) from 5 minutes to 90 seconds.*
-Using Retrieval-Augmented Generation (RAG) to automatically enrich and triage security alerts, mapping them to MITRE ATT&CK techniques and historical playbooks in real-time.
+</td>
+<td align="center" width="33%">
 
-**2. STRIDE Threat Modeling Copilot**
-*Built on: Azure AI Foundry*
-An AI-powered assistant that automates the creation of STRIDE threat models for new application architectures, bridging the gap between developers and security architects.
+**📜 AI Governance**
+NIST AI RMF · ISO 42001
+EU AI Act · OWASP LLM Top 10
 
-**3. HackersBUN Threat Intel Aggregator (Open Source)**
-An automated OSINT pipeline that pulls, parses, and presents the latest cyber threats from disparate feeds into a centralized, actionable dashboard.
+</td>
+</tr>
+</table>
 
-<a href="https://girish-rao-str.github.io/HackersBUN/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=girish-rao-str&repo=HackersBUN&title_color=00BFFF&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="HackersBUN Repo" />
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Kali_Linux-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge&logo=wireshark&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=0D1117&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-00BFFF?style=for-the-badge&logo=microsoftazure&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Splunk_ES-00FF41?style=for-the-badge&logo=splunk&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CrowdStrike-00BFFF?style=for-the-badge&logo=crowdstrike&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-00FF41?style=for-the-badge&logo=openai&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SOAR-00BFFF?style=for-the-badge&logo=googlealerts&logoColor=0D1117&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Netlify-00BFFF?style=for-the-badge&logo=netlify&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GitHub_Actions-00FF41?style=for-the-badge&logo=githubactions&logoColor=0D1117&labelColor=0D1117" />
+</p>
+
+<h3 align="center">📡 Featured Project — HackersBUN</h3>
+<p align="center"><i>Open-source Threat Intel news aggregator</i></p>
+
+<p align="center">
+<a href="https://github.com/girish-rao-str/HackersBUN">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=girish-rao-str&repo=HackersBUN&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=00BFFF&icon_color=00FF41&border_color=00FF41&hide_border=true" />
 </a>
-<br/>
+</p>
+
+<p align="center">
 <a href="https://girish-rao-str.github.io/HackersBUN/">
-  <img src="https://img.shields.io/badge/ACCESS_LIVE_FEED-Click_Here-0d1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="Live Feed"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20LAUNCH%20LIVE%20FEED-00FF41?style=for-the-badge&logoColor=0D1117&labelColor=0D1117&color=00FF41" height="45" />
 </a>
+</p>
 
-</div>
+<h3 align="center">📊 System Diagnostics</h3>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=girish-rao-str&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=00BFFF&icon_color=00FF41&border_color=00FF41&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-rao-str&theme=dark&background=0D1117&stroke=00FF41&ring=00FF41&fire=00BFFF&currStreakLabel=00FF41&sideLabels=00BFFF&dates=00BFFF&border=00FF41&hide_border=true" width="48%" />
+</p>
 
-### 🧰 Arsenal & Tech Stack
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-rao-str&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=00BFFF&border_color=00FF41&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-rao-str&theme=react-dark&bg_color=0D1117&color=00BFFF&line=00FF41&point=00FF41&area=true&hide_border=true" width="95%" />
+</p>
 
-<!-- Cloud & AI -->
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-00BFFF?style=for-the-badge&logo=azureartifacts&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-<br/>
-<!-- Security & Automation -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-D62246?style=for-the-badge&logo=mitre&logoColor=white)
-<br/>
-<!-- Certifications -->
-![CEH](https://img.shields.io/badge/CEH_v12-00FF41?style=for-the-badge&logo=ec-council&logoColor=white)
-![GSEC](https://img.shields.io/badge/GIAC_GSEC-00BFFF?style=for-the-badge&logo=giac&logoColor=white)
-![ECIH](https://img.shields.io/badge/ECIH-FF6600?style=for-the-badge&logo=ec-council&logoColor=white)
-![AZ-500](https://img.shields.io/badge/AZ--500_(In_Progress)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117)
+<h3 align="center">🎯 Career Trajectory</h3>
 
-</div>
+```bash
+girish@hackersbun:~$ cat roadmap.log
+[2016-2020] SOC Analyst -> FLSmidth
+[2020-2024] Senior Cyber Security Specialist -> Ramboll
+[2024-NOW ] Lead Security Architect (SOC) -> Lennox International
+[NEXT     ] Principal Advisor, AI Cloud & IoT Security
+```
 
----
-
-### 📈 System Analytics (GitHub Stats)
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=girish-rao-str&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=00FF41&count_private=true" alt="GitHub Stats" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-rao-str&hide_border=true&background=0d1117&ring=00BFFF&fire=00FF41&currStreakLabel=00BFFF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-  <br/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-rao-str&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&layout=compact" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-rao-str&bg_color=0d1117&color=00BFFF&line=00FF41&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00BFFF,100:0d1117&height=100&section=footer&reversal=false&textAlign=0&fontSize=0" width="100%"/>
-  
-  #### “Currently monitoring the wire. Stay quiet. Stay sharp.”
-  
-  <a href="mailto:girish@example.com"><img src="https://img.shields.io/badge/Send_Encrypted_Message-Email-00FF41?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/></a>
-</div>
-````
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=150&section=footer&text=The%20quieter%20you%20become,%20the%20more%20you%20are%20able%20to%20hear.&fontColor=00FF41&fontSize=18&animation=fadeIn" width="100%" />
